@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = dr.saha.sanjib@gmail.com
+	name = sanjib saha
